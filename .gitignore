@@ -1,0 +1,24 @@
+# Python bytecode
+*.pyc
+
+# Logs
+*.log
+logs/
+log-*
+
+# Virtualenv
+venv/
+
+# Build
+build/
+dist/
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# model
+*.pth
+*.pt
+
